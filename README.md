@@ -24,6 +24,14 @@ Hi! I'm **Prajakta Ganesh Jadhav**, a final-year Computer Science student and Fl
 
 ---
 
+<div align="center">
+  <img src="https://github.com/prajaktajadhav177/prajaktajadhav177/raw/main/gifimage.gif" width="500" alt="Prajakta Coding GIF"/>
+</div>
+
+
+---
+
+
 ## 🧰 Tools & Technologies
 
 <div align="center">
