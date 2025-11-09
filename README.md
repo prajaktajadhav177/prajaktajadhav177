@@ -35,7 +35,7 @@ Hi! I'm **Prajakta Ganesh Jadhav**, a final-year Computer Science student and Fl
 ## 🧰 Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,sqlite,figma,git,php,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,sqlite,figma,git,html,css" />
 </div>
 
 **Frameworks & Libraries:** Flutter, Bloc,
